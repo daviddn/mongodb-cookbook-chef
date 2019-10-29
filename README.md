@@ -21,7 +21,7 @@ We need to create a reusable chef cookbook for installing and managing mongodb s
 ## Assignment 2
 
 ### Summary
-Our Mongo cookbook currently only install mongodb but it is not configured or started. Let's used templates and attributes to configure the cookbook
+Our Mongo cookbook currently only installs mongodb but it is not configured or started. Let's use templates and attributes to configure the cookbook.
 
 ### Tasks
 - Add new ChefSpec tests for the following:
