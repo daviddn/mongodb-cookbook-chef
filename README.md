@@ -1,6 +1,6 @@
-# Mongo Cookbook
+# Mongo Cookbook :man_cook:
 
-This is a cookbook with mongodb :man_cook:
+This is a cookbook with mongodb!
 
 ## Assignment 1
 
